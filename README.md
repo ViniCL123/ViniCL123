@@ -1,7 +1,7 @@
 ### Oie! Me chamo Vinicius 👋
 
-- 🔭 Estou a procuro de um estágio, faço jogos digitais na estacio.
-- 🌱 Estou estudando desenv. web (html,css,javascript).
+- 🔭 Estou a procuro de um estágio, faço SI na Unilasalle-RJ
+- 🌱 Estou estudando desenv. web (html,css,javascript) e SQL.
 - 😄 Pronomes: ele/dele.
 - ⚡ Fun fact: Amo video games e tudo sobre super heróis.
 
